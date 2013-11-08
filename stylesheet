@@ -425,6 +425,8 @@ Small Device Styles
   }
 
 }
+
 .bold {
-    font-weight: bold;
+  font-weight: bold;  
+}
 }
