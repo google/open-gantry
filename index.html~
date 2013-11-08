@@ -72,6 +72,7 @@ $ git clone https://github.com/google/open-gantry.git
   <li>1 - <a href="http://www.homedepot.com/p/Unbranded-3-8-in-x-36-in-Zinc-Threaded-Rod-17340/202183465#.Un05H3WJD4w">3/8 20 threaded rod (we used 1/4 20 for 1:1)</a></li>
   <li>1 - <a href="http://www.amazon.com/Scotty-Strength-Premium-Downrigger-150-Foot/dp/B003ZZKCSC/ref=sr_1_2?ie=UTF8&qid=1383938560&sr=8-2&keywords=high+strength+braided+fishing">Drive cables could be 1/16 steel cable or high rating braided spektra fishing line (100-500pound rating for 1:1, 50pound should be fine for 1:4).</a></li>
   <li>? - Enough plywood to do the job. For the best price use 1" OSD sheets. For high quality use better 1" plywood. (for 1:4 scale we used 1/8" plywood which worked great)</li>
+  <li>3 - Stepper motors Nema 17 for 1:4, The highest torque rating Nema 23~ under 2.9Amp within your budget for 1:1 scale. Sourcing these is tricky. Too much torque and you need more expensive electronics. Too little torque and you will have to make a ton of passes on your cuts or they will simply stall. Price is also a major factor.</li>
 </ul>
 
 
@@ -90,7 +91,9 @@ $ git clone https://github.com/google/open-gantry.git
 
 
 <a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Pictures</h3>
-
+<div style="width: 1000px;">
+    <img src="http://google.github.io/open-gantry/images/1.jpg" width="300" style="float: left; border: 1px solid black; padding: 10px;">
+</div>
 <h3>
 <a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
 
