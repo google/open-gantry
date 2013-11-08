@@ -60,33 +60,36 @@ $ git clone https://github.com/google/open-gantry.git
   <li>14 - <a href="http://www.vxb.com/page/bearings/PROD/Bearings-Sale/608ZZ10-1">608 2rs bearings</a></li>
   <li>2 - 5/16 bolts and nuts</li>
   <li>12 - <a href="http://www.homedepot.com/p/Glacier-Bay-1-3-4-in-Stainless-Steel-Clamp-6720595/202309386#.Un00FnWJD4w">small hose clamps</a></li>
-  <li><a href="http://www.homedepot.com/p/Everbilt-4-in-Stainless-Steel-Clamp-6756595/202309381#.Un00YXWJD4w">large hose clamps</a></li>
-  <li>20+<a href="http://www.homedepot.com/p/Unbranded-4-x-1-2-in-Brass-Flat-Head-Phillips-Wood-Screws-6-Pack-23101/202705647#.Un00n3WJD4w">wood screws (size varies depending on need)</a></li>
+  <li>2 - <a href="http://www.homedepot.com/p/Everbilt-4-in-Stainless-Steel-Clamp-6756595/202309381#.Un00YXWJD4w">large hose clamps</a></li>
+  <li>20 + <a href="http://www.homedepot.com/p/Unbranded-4-x-1-2-in-Brass-Flat-Head-Phillips-Wood-Screws-6-Pack-23101/202705647#.Un00n3WJD4w">wood screws (size varies depending on need)</a></li>
   <li>1 - <a href="http://www.acehardware.com/product/index.jsp?productId=1414937&KPID=1174664&cagpspn=pla&CAWELAID=109384216">Cheap epoxy or resin (CA glue works for 1:4 scale)</a></li>
   <li>2 - <a href="http://www.homedepot.com/p/Unbranded-M2-0-4-x-5-mm-Alloy-Metric-Socket-Set-Screw-2-Pack-10058/203540289#.Un01iHWJD4w">#4 set screw</a></li>
   <li>4 - <a href="http://www.homedepot.com/p/Prime-Line-5-16-in-x-1-1-4-in-Steel-Ball-Bearing-Rollers-2-Pack-D-1502/100210797#.Un03BnWJD4w">bearing rollers (sized to fit your rails)</a></li>
-  <li>1 box of bolts & nuts (I like 1/4 20  3" long)</li>
-  <li>1/4 cold rolled steel rod (1:4 scale) OR 1" galvenized pipe (the rails). Buy as much as you need. Quantity depends on your machines size.</li>
+  <li>1 - box of bolts & nuts (I like 1/4 20  3" long)</li>
+  <li>? - 1/4 cold rolled steel rod (1:4 scale) OR 1" galvenized pipe (the rails). Buy as much as you need. Quantity depends on your machines size.</li>
   <li>1 - <a href="https://synthetos.myshopify.com/products//gshield-v4-shapeoko-bundle">arduino / grbl shield combo pack</a></li>
   <li>1 - power supply<a href="http://www.amazon.com/Replacement-Monitor-Adapter-Power-Supply/dp/B0023Y9EQC/ref=sr_1_10?s=electronics&ie=UTF8&qid=1383938218&sr=1-10&keywords=24v+power+supply">We are using one with DC 24v 3.75A for 1:4 scale. For 1:1 scale you will need something that can supply at least 12Amp @ 24v (an xbox PSU works well or PC power supply)</a></li>
   <li>1 - <a href="http://www.homedepot.com/p/Unbranded-3-8-in-x-36-in-Zinc-Threaded-Rod-17340/202183465#.Un05H3WJD4w">3/8 20 threaded rod (we used 1/4 20 for 1:1)</a></li>
   <li>1 - <a href="http://www.amazon.com/Scotty-Strength-Premium-Downrigger-150-Foot/dp/B003ZZKCSC/ref=sr_1_2?ie=UTF8&qid=1383938560&sr=8-2&keywords=high+strength+braided+fishing">Drive cables could be 1/16 steel cable or high rating braided spektra fishing line (100-500pound rating for 1:1, 50pound should be fine for 1:4).</a></li>
-  <li>Enough plywood to do the job. For the best price use 1" OSD sheets. For high quality use better 1" plywood. (for 1:4 scale we used 1/8" plywood which worked great)</li>
+  <li>? - Enough plywood to do the job. For the best price use 1" OSD sheets. For high quality use better 1" plywood. (for 1:4 scale we used 1/8" plywood which worked great)</li>
 </ul>
 
 
 <h3>
 <a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Assembly</h3>
 
-<p>Cut all the </p>
+<p>Cut all the parts out of wood. 3d print all the parts. Look closely at the pictures and try to replicate what we did. Do whatever it takes to make it as rigid as possible. </p>
 <h3>
 <a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Contributors</h3>
 <ul>
   <li>Matt Gardner</li>
   <li>Alistair Milne</li>
   <li>Ken Shirriff</li>
-  <li>Email us at opengantry@googlegroups.com with questions or comments.</li>
+  <li>Email us at opengantry@googlegroups.com with questions or comments or join our <a href="https://groups.google.com/d/forum/opengantry">google group</a>.</li>
 </ul>
+
+
+<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Pictures</h3>
 
 <h3>
 <a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
