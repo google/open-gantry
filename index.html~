@@ -45,12 +45,13 @@ There are better designs on the market, which higher precision. Your precision w
 $ git clone https://github.com/google/open-gantry.git
 </code></pre>
 
-<p>1.) 3d print all of the .stl files 
+<p>1.) <a href="https://github.com/google/open-gantry">Download all the files</a>
+<p>2.) 3d print all of the .stl files 
 <br/>
 <b class="bold">Important: All models are 1:4 scale. However, whether you want a 1:4 scale or 1:1 scale, all 3d printed parts stay the same size except for zgantry-driver.stl which should be scaled to fit your machine.</b></p>
-<p>2.) Using either a laser cutter, CNC, or a lot of patience and a jigsaw cut out all of the svg files <br/>
+<p>3.) Using either a laser cutter, CNC, or a lot of patience and a jigsaw cut out all of the svg files <br/>
 <b class="bold">Important: All models are 1:4 scale. If you want a 5ftX9ft CNC you need to scale up all svg files by 400%</b></p>
-<p>3.) Get a bunch of adhesive (CA glue for 1:4, Epoxy for 1:1), and wood screws and start assembling the frame. Whatever you do... make sure the frame is as rigid as possible. A wobbly CNC is a CNC with lots of backlash, and innacurate cuts. Making everything rigid, and eliminating give in the spektra lines are the most important part of this build.</p>
+<p>4.) Get a bunch of adhesive (CA glue for 1:4, Epoxy for 1:1), and wood screws and start assembling the frame. Whatever you do... make sure the frame is as rigid as possible. A wobbly CNC is a CNC with lots of backlash, and innacurate cuts. Making everything rigid, and eliminating give in the spektra lines are the most important part of this build.</p>
 
 
 <h3>
