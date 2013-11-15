@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.7505mm"
+   height="96.2mm"
+   viewBox="0 0 55.7505 96.2"
+   version="1.1"
+   id="svg3011"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="z-gantry-driver.svg">
+  <metadata
+     id="metadata3071">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3069" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3067"
+     showgrid="false"
+     inkscape:zoom="0.69235394"
+     inkscape:cx="98.770569"
+     inkscape:cy="170.43306"
+     inkscape:window-x="-37"
+     inkscape:window-y="468"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3011" />
+  <desc
+     id="desc3013">Output from Flights of Ideas SVG Sketchup Plugin</desc>
+  <g
+     id="text_annotations"
+     font-size="10"
+     stroke="rgb(255,0,0)"
+     stroke-width="1" />
+  <g
+     id="face0"
+     fill="none"
+     stroke="rgb(0,0,255)"
+     stroke-width="1"
+     stroke-miterlimit="4"
+     stroke-dasharray="none"
+     stroke-linejoin="round"
+     stroke-linecap="round">
+    <line
+       x1="33.8125"
+       y1="10.0"
+       x2="33.8125"
+       y2="35.4943625829215"
+       id="line3017" />
+    <line
+       x1="33.8125"
+       y1="35.4943625829215"
+       x2="10.0"
+       y2="73.5"
+       id="line3019" />
+    <line
+       x1="10.0"
+       y1="73.5"
+       x2="10.0"
+       y2="86.2"
+       id="line3021" />
+    <line
+       x1="10.0"
+       y1="86.2"
+       x2="14.7625"
+       y2="86.2"
+       id="line3023" />
+    <line
+       x1="14.7625"
+       y1="86.2"
+       x2="14.7625"
+       y2="73.5"
+       id="line3025" />
+    <line
+       x1="14.7625"
+       y1="73.5"
+       x2="19.525"
+       y2="73.5"
+       id="line3027" />
+    <line
+       x1="19.525"
+       y1="73.5"
+       x2="19.525"
+       y2="86.2"
+       id="line3029" />
+    <line
+       x1="19.525"
+       y1="86.2"
+       x2="24.2875"
+       y2="86.2"
+       id="line3031" />
+    <line
+       x1="24.2875"
+       y1="86.2"
+       x2="24.2875"
+       y2="75.0875"
+       id="line3033" />
+    <line
+       x1="24.2875"
+       y1="75.0875"
+       x2="35.4"
+       y2="75.0875"
+       id="line3035" />
+    <line
+       x1="35.4"
+       y1="75.0875"
+       x2="35.4"
+       y2="86.2"
+       id="line3037" />
+    <line
+       x1="35.4"
+       y1="86.2"
+       x2="38.575"
+       y2="86.2"
+       id="line3039" />
+    <line
+       x1="38.575"
+       y1="86.2"
+       x2="38.575"
+       y2="54.45"
+       id="line3041" />
+    <line
+       x1="38.575"
+       y1="54.45"
+       x2="41.75"
+       y2="54.45"
+       id="line3043" />
+    <line
+       x1="41.75"
+       y1="54.45"
+       x2="41.75"
+       y2="86.2"
+       id="line3045" />
+    <line
+       x1="41.75"
+       y1="86.2"
+       x2="45.7505"
+       y2="86.2"
+       id="line3047" />
+    <line
+       x1="45.7505"
+       y1="86.2"
+       x2="45.7505"
+       y2="10.0"
+       id="line3049" />
+    <line
+       x1="45.7505"
+       y1="10.0"
+       x2="41.75"
+       y2="10.0"
+       id="line3051" />
+    <line
+       x1="41.75"
+       y1="10.0"
+       x2="41.75"
+       y2="41.75"
+       id="line3053" />
+    <line
+       x1="41.75"
+       y1="41.75"
+       x2="38.575"
+       y2="41.75"
+       id="line3055" />
+    <line
+       x1="38.575"
+       y1="41.75"
+       x2="38.575"
+       y2="10.0"
+       id="line3057" />
+    <line
+       x1="38.575"
+       y1="10.0"
+       x2="33.8125"
+       y2="10.0"
+       id="line3059" />
+    <line
+       x1="35.4"
+       y1="48.1943625829215"
+       x2="35.4"
+       y2="73.5"
+       id="line3061" />
+    <line
+       x1="35.4"
+       y1="73.5"
+       x2="22.7"
+       y2="73.5"
+       id="line3063" />
+    <line
+       x1="22.7"
+       y1="73.5"
+       x2="35.4"
+       y2="48.1943625829215"
+       id="line3065" />
+  </g>
+</svg>
